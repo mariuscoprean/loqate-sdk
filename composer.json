@@ -1,5 +1,5 @@
 {
-    "name": "loqate/api-connector",
+    "name": "loqate-test/api-connector-test",
     "description": "Loqate API connector library",
     "type": "library",
     "require": {
