@@ -1,10 +1,10 @@
 {
-    "name": "loqate-test/api-connector-test",
+    "name": "loqate/api-connector",
     "description": "Loqate API connector library",
     "type": "library",
     "require": {
-        "guzzlehttp/guzzle": "^5",
-        "php": ">= 7.0"
+        "guzzlehttp/guzzle": "^7.5",
+        "php": ">= 7.2"
     },
     "minimum-stability": "dev",
     "autoload": {
@@ -17,7 +17,7 @@
             "name": "Marius Coprean"
         }
     ],
-	"version": "v1.0.3",
+	"version": "v2.0.0",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
