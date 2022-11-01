@@ -16,5 +16,10 @@
         {
             "name": "Marius Coprean"
         }
+    ],
+	"version": "v1.0.0",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
     ]
 }
